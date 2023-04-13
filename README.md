@@ -8,7 +8,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
 
 ## I'm A Top-Developer, Athlete and a Learner!!!
-- 👱🏼 Hey, I am Cody John, a 13 Year Old Young Developer and a Student In Grade 8th.
+- 👱🏼 Hey, I am Cody John, a passionate Developer with rich experience.
 - 😄 Adjectives: Coder, Leader and Kind Hearted
 - 🌈 I Like Coding, Cricket, Art and Craft, Cubing, Music and Playing Games.
 - ⚡ Cravings: Food, Travelling and Playing Games 
